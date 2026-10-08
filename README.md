@@ -34,7 +34,7 @@ OSINTSLAYER/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Darackkk/OSINTSLAYER.git
+   git clone https://github.com/volvesgit/OSINTSLAYER.git
    cd OSINTSLAYER
    ```
 
@@ -56,7 +56,7 @@ python main.py
 You will see the following menu:
 
 ```
---- OSINTSLAYER ---
+--- OSINT Recon Toolkit ---
 1. WHOIS Lookup
 2. DNS Enumeration
 3. IP Geolocation
@@ -109,11 +109,10 @@ Place the API key when prompted in the CLI.
 ---
 
 ## 👤 Author
-Developed by **VOLVES**  
-GitHub: [Darackkk](https://github.com/Darackkk)
+Developed by [@volvesgit](https://github.com/volvesgit)
 
 ---
 
 ## ✨ License
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it!
+This project is licensed under the [MIT License](LICENSE). Use it only on targets you are authorized to investigate.
 

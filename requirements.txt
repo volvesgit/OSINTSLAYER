@@ -1,4 +1,4 @@
 requests
 dnspython
-whois
+python-whois
 shodan
